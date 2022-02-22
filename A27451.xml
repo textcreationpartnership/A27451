@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England, now sitting at Westminster a representation of the outrages and cruelties acted upon the servants of Christ, at two meetings at Sabridgworth in Hartford-shire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27451</idno>
+            <idno type="STC">Wing B1958</idno>
+            <idno type="STC">ESTC R38694</idno>
+            <idno type="EEBO-CITATION">17892558</idno>
+            <idno type="OCLC">ocm 17892558</idno>
+            <idno type="VID">106736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1116:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England, now sitting at Westminster a representation of the outrages and cruelties acted upon the servants of Christ, at two meetings at Sabridgworth in Hartford-shire.</title>
+                  <author>Berd, Robert.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Robert Berd, Henry Stout, John Bresbon [and 11 others].</note>
+                  <note>Imperfect: stained and print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106736:1"/>
+            <pb facs="tcp:106736:1" rendition="simple:additions"/>
+            <p> TO THE PARLIAMENT OF THE <hi>COMMON-WEALTH</hi> OF ENGLAND, Now ſitting at <hi>WEST MINSTER.</hi>
+            </p>
+            <p>A Repreſentation of the Outrages and Cruelties acted upon the ſervants of Chriſt, at two Meetings at <hi>Sabridgworth</hi> in <hi>Hartford-ſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+            <pb facs="tcp:106736:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106736:2" rendition="simple:additions"/>
+            <p> WHile ye declare for a Common-wealth, and the juſt Liberties of all perſons as men and Chriſtians; and while other people in the Nation (though enemies to ſuch a Government) have freedom to worſhip after their manner; the true friends of Chriſt (that cannot be enemies to good Government) many of whom have ventured their lives in the late War, for the Rights and Liberties of the people, being awakened to Worſhip the Lord in Spirit and Truth, are not onely ſlandered and reviled with all manner of evil ſayings, but moſt cruelly buffeted, beaten and ſtoned to the ſhedding of their blood, in ſeveral dark places of the Land, which are full of the habitations of cruelty, as if their lives were at the mercy of the worſt of men, and they were onely to be uſed as ſheep for the ſlaughter; An in<g ref="char:EOLhyphen"/>ſtance whereof we ſhall preſent you with (in ſtead of many) what was acted in two ſeveral Meetings at <hi>Sa<g ref="char:EOLhyphen"/>bridgworth</hi> in <hi>Hartford-ſhire,</hi> the third and one and thirtieth of the fifth Month, on the third, day a mul<g ref="char:EOLhyphen"/>titude of the ſons of <hi>Belial</hi> boys and men ſtormed the houſe wherein Gods people were met together in meekneſs and fear, with ſtones, dirt and other things of offence, and breaking in upon them did very much abuſe them, eſpecially as they went away, no Offi<g ref="char:EOLhyphen"/>cer appearing to keep the Peace, and endeavour to ſuppreſs the tumult, though two Conſtables and a Church-warden lived hard by, and a Juſtice of Peace Sir <hi>Thomas Hewet</hi> ſo called, was at the place of his wor<g ref="char:EOLhyphen"/>ſhip, within hearing of the clamour and ſhouting, to whom alſo the ſuffering people ſhewed themſelves in ſuch a pickle, as would have moved any perſon of
+<pb n="2" facs="tcp:106736:3" rendition="simple:additions"/> common humanity to pitty, and interpoſe his utmoſt power, for their reſcue; but his anſwer to their mild complaints was frowns and checks, biding them go for remedy to them that gave them their Liberty; and ſaying, ſuch uſage was as lawful as their Meeting, whereupon the rude rabble took incouragement to a<g ref="char:EOLhyphen"/>buſe them before his face; and that day month being more numerous, they were much more fierce and cruel, ſtriking horſe and rider as they came thither, pulling down ſome and wallowing them in the mire, daubing others with dirt both faces and cloaths, and filling their hats therewith, and clapping them on their heads; and afterward aſſaulting the place (where neer 300 were met together) with ſhouting and flinging of ſtones, they brake down the tiles, boards, windows and walls of the houſe, and did fling in at the breaches ſuch ſhowers of ſtones, dirt, rotten eggs, mans dung and water, that few or none could eſcape the marks of their fury, and they cut off great part of ſome mens coats, and did tear off a very good ſcarf from about a womans neck, which ſtill is kept from her, laid ſome for dead and ſorely bruiſed, and battered others, and ſo annoyed all with their conti<g ref="char:EOLhyphen"/>nual throwing for the ſpace of three hours, that one ſide of the houſe being broken down, they were for<g ref="char:EOLhyphen"/>ced to quite the place; and as they attempted to eſ<g ref="char:EOLhyphen"/>cape were ſtopped, and not ſuffered to paſs without renewed tokens of inhumanity, for the mad crue nei<g ref="char:EOLhyphen"/>ther reſtrained by authority (the Conſtables abſent<g ref="char:EOLhyphen"/>ing again on purpoſe, and <hi>Clement Buck</hi> a Church<g ref="char:EOLhyphen"/>warden ſlighted the admonition of a Juſtice of Peace there preſent, who warned him to keep the Peace, and the reſt to take heed they did not break it, and was uſed as courſly as the reſt for his pains; and their
+<pb n="3" facs="tcp:106736:3" rendition="simple:additions"/> Neighbour Juſtice bearing with (if not a betting) their madneſs, for his men were the firſt that brake in upon them the former Meeting, and one of them was pre<g ref="char:EOLhyphen"/>ſent at the latter, incouraging the Tories;) nor their violence reſiſted the harmleſs people taking all patient<g ref="char:EOLhyphen"/>ly, incouragement was taken to act over their cruelties with repeated aggravations, and that without reſpect to Age, Sex or Condition, ſo that aged perſons, chil<g ref="char:EOLhyphen"/>dren &amp; women with child, fared alike with others; yea, as if nothing could ſatisfie but the lives of the inno<g ref="char:EOLhyphen"/>cent; they did lay in wait and purſue ſome of them with ſtones and dirt almoſt two miles from that place.</p>
+            <p>Now though it cannot be denied, that this hath been the entertainment the beſt of Gods people have met withal in the world, from the enmity of the ſerpents ſeed, which is alwayes higher, as the Spirit of glory ſhines brighter upon the womans ſeed; and therefore crucified the Lord of Glory. And though it is given to Gods people not onely to believe, but alſo to ſuffer: yet ſeeing that which is done to them is reckoned as done to himſelf, &amp; not knowing what the paſſing by of ſuch an example of violence, eſpecially at this time may produce; for preventing as much as in us lyes (the ſhed<g ref="char:EOLhyphen"/>ding of innocent blood, which pulls down the heavieſt judgements upon a People or Nation that are guilty thereof.) We have laid this foul buſineſs before you, to whom it belongs to do Juſtice, and execute judge<g ref="char:EOLhyphen"/>ment in the midſt of us; and this is not to keep a day unto the Lord, neither are theſe fruits worthy a good Government or a right Reformation, being ſcarce to be found where there is any Government; <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs exalteth a Nation, but ſin is a ſhame for any people.</hi> It is a great ſhame to the Magiſtrate, Miniſter and the whole Nation, that ſuch outrages ſhould be committed, but
+<pb n="4" facs="tcp:106736:4" rendition="simple:additions"/> much greater that they ſhould be permitted. Look to it therefore O ye Rulers of the Land, and bear your Teſtimony againſt ſuch wickedneſſe, leaſt o<g ref="char:EOLhyphen"/>therwiſe you appear conſenting thereunto, and there be found among you the blood of the poor innocent, and ſo the fierce anger of the Lord break forth upon you, and there be none to deliver: If the ſufferings of the innocent in <hi>France, Germany</hi> and <hi>Ireland</hi> are mat<g ref="char:EOLhyphen"/>ter of lamentation, with them that have any thing of tenderneſſe and compaſſion, theſe cruelties ſo newly acted, and ſo very neer, muſt needs affect you: It is high time to do ſomething to ſtay the hand of the Lord that is ſtretched out for ſuch abhominations. This laſt Tragedy was acted the immediate day before the intended inſurrection, and the Actors expreſſed great confidence of the ſucceſs thereof, ſaying, That there is no Parliament, and that King <hi>Charles</hi> would not al<g ref="char:EOLhyphen"/>low ſuch meetings. You have yet power in your hands to prove them lyars, yea to vindicate your authority [which was trampled upon in this action] and to let them know, there is a Parliament that abhors ſuch bar<g ref="char:EOLhyphen"/>bariſms, and is indeed reſolved to defend the honeſt intereſt and people of the Nation againſt all bloody adverſaries whatſoever: So will you be a terror to e<g ref="char:EOLhyphen"/>vil doers, and a praiſe to them that do well, and your hands, and the hands of them that are with you may be ſtrengthened to do excellently for the land of your nativity.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Robert Berd</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Stout</hi>
+                     </item>
+                     <item>
+                        <hi>John Bresbon</hi>
+                     </item>
+                     <item>
+                        <hi>Sammuel Rud</hi>
+                     </item>
+                     <item>
+                        <hi>John Goodman</hi>
+                     </item>
+                     <item>
+                        <hi>John Odel</hi>
+                     </item>
+                     <item>
+                        <hi>John Reynolds</hi>
+                     </item>
+                     <item>
+                        <hi>John Wincheſter</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Halden</hi>
+                     </item>
+                     <item>
+                        <hi>John Pain</hi>
+                     </item>
+                     <item>
+                        <hi>Abel Walſton</hi>
+                     </item>
+                     <item>
+                        <hi>John Mighel</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremiah Plummer</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Everrard,</hi> &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="5" facs="tcp:106736:4" rendition="simple:additions"/>
+            <head>POST-SCRIPT.</head>
+            <p>SInce the writing hereof, one of the perſons that was moſt abuſed at the above mentioned meeting <hi>John Goodman</hi> by name (one of whoſe eyes were almoſt put out in the houſe, with ſtones &amp; dirt, wherewith he went bleeding away, and yet was ſet upon by three of theſe bloody men who knocked him down, and in like<g ref="char:EOLhyphen"/>lyhood had taken away his life, but for ſome women that cryed out and cauſed them to leave him) hearing they were ſo far from repenting of their wickedneſſe, that they threatened to deal worſe the next oppertu<g ref="char:EOLhyphen"/>nity, had a Juſtice of Peace his warrant to bring them three, &amp;c. before him or ſome other Juſtice in the county, now the Conſtable willing to gratifie his neighbors, did go with them before <hi>Thomas Hewet</hi> a<g ref="char:EOLhyphen"/>foreſaid, where they were ſure to have favour in this caſe, who (when they were come before him, toge<g ref="char:EOLhyphen"/>ther with many witneſſes and others that came to hear and ſee how things were carried) asked them what was the matter; <hi>John Goodman</hi> anſwered, there was cauſe enough, for he was knocked down, the Juſtice re<g ref="char:EOLhyphen"/>plyed, if you come for juſtice, behave your ſelves as before a Juſtice [meaning they ſhould be bare] and preſently before the ſaid <hi>Goodman</hi> could ſay any more, the Juſtice gave the word, and his ſervants that ſtood ready, thruſt him and them that came with him out of doors; And this was all the right the Juſtice could af<g ref="char:EOLhyphen"/>ford him, for the wrong he had ſuffered; Now whe<g ref="char:EOLhyphen"/>ther this be to act the part of a Juſtice of peace, or to miniſter Juſtice and true judgement; Let all ſober men judge, he hath done very much herein to
+<pb n="6" facs="tcp:106736:5" rendition="simple:additions"/> ſtrengthen the hands of evil doers, by juſtifying the wicked, &amp; condemning the innocent; And as it may well be concluded from whence this barbarous tumult re<g ref="char:EOLhyphen"/>ceived their incouragement; ſo it may as eaſily be known where the blood that might, or hereafter may be ſhed by this party is chargeable; And whether it be for the honour and ſafety of the Common-Wealth, that men of bloody principles be continued in com<g ref="char:EOLhyphen"/>miſſion for the peace in a time of reformation, It is left to the ſerious conſideration of the preſent Autho<g ref="char:EOLhyphen"/>rity of the Nation.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
